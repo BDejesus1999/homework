@@ -1,5 +1,5 @@
 {
-    matgin: 0;
+    margin: 0;
     padding: 0;
 
 }
@@ -12,7 +12,9 @@ html, body{
 }
 
 .background{
-    background-image: url();
+    width: 100%;
+    height: 100%;
+    background-image: url(bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
